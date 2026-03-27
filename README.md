@@ -35,12 +35,21 @@
 
 ---
 
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
 
-## 📊 GitHub Stats
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhosefhteles/my-github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhosefhteles/my-github-stats/master/generated/overview.svg#gh-light-mode-only">
+    <img alt="GitHub Stats Overview" src="https://raw.githubusercontent.com/jhosefhteles/my-github-stats/master/generated/overview.svg" style="max-width: 100%; width: auto;">
+  </picture>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jhosefhteles&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhosefhteles&layout=compact&theme=tokyonight" />
-</p>
+  <br><br>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhosefhteles/my-github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhosefhteles/my-github-stats/master/generated/languages.svg#gh-light-mode-only">
+    <img alt="GitHub Languages Stats" src="https://raw.githubusercontent.com/jhosefhteles/my-github-stats/master/generated/languages.svg" style="max-width: 100%; width: auto;">
+  </picture>
+</div>
 ---
